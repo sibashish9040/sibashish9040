@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ## 📫 Connect with Me
 
-- [](https://www.linkedin.com/in/s-sibashish-8b0261258/)![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)
+-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](your-https://www.linkedin.com/in/s-sibashish-8b0261258/)
 - [](https://x.com/s_sibashish)![Twitter](https://img.shields.io/twitter/follow/S_Sibashish?style=social)
 - [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sibashish958@gmail.com)
 
